@@ -208,6 +208,9 @@ http://195.154.165.98:25461/tacomect/fdfdhh/149
 #EXTINF:0,OSN-Al Safwa
 #EXTVLCOPT:http-user-agent=alswaidifromyemen
 http://195.154.165.98:25461/tacomect/fdfdhh/141
-#EXTINF:0,test
+#EXTINF:0,bein sport 1 low
 #EXTVLCOPT:http-user-agent=Youss_TV
 https://az.hiho5.com:8443/Youss9anawatpnl2/lE7qgdEKIG/1
+#EXTINF:0,bein sport 1 hd
+#EXTVLCOPT:http-user-agent=Youss_TV
+https://az.hiho5.com:8443/Youss9anawatpnl2/lE7qgdEKIG/360
